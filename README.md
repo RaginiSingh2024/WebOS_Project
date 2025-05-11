@@ -68,7 +68,7 @@ This is a fun and creative project that looks like a simple computer desktop in 
 
 1. Download or clone the project:
 ```bash
-git clone https://github.com/your-username/window-os.git
+git clone https://github.com/RaginiSingh2024/window-os.git
 cd window-os
 ```
 ---
